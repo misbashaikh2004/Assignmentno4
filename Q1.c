@@ -1,10 +1,11 @@
 #include<stdio.h>
 int main()
 {
-    int i;
-    printf("Enter no:");
-    scanf("%d",&i);
-    for(i=1;i<=5;i++)
+    int i,n;
+    //printf("Enter no:");
+    //scanf("%d",&i);
+    for(i=1;i<=5;i++){
     printf("Hello\n");
+    }
 return 0;
 }
